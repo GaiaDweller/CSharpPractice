@@ -1,0 +1,4 @@
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\obj\Debug\net9.0\CSPRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\obj\Debug\net9.0\CSPRACTICE.AssemblyInfoInputs.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\obj\Debug\net9.0\CSPRACTICE.AssemblyInfo.cs
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\obj\Debug\net9.0\CSPRACTICE.csproj.CoreCompileInputs.cache
