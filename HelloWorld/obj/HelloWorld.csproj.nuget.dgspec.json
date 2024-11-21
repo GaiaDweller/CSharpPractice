@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rstew451\\Documents\\GitHub\\CSharpPractice\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\rstew451\\Documents\\Github\\CSharpPractice\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rstew451\\Documents\\GitHub\\CSharpPractice\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\rstew451\\Documents\\Github\\CSharpPractice\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rstew451\\Documents\\GitHub\\CSharpPractice\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\rstew451\\Documents\\Github\\CSharpPractice\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\rstew451\\Documents\\GitHub\\CSharpPractice\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\rstew451\\Documents\\Github\\CSharpPractice\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\rstew451\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rstew451\\Documents\\GitHub\\CSharpPractice\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\rstew451\\Documents\\Github\\CSharpPractice\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rstew451\\AppData\\Roaming\\NuGet\\NuGet.Config"
