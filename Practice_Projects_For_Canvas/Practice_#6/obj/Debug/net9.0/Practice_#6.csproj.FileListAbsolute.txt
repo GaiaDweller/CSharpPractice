@@ -1,0 +1,15 @@
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\bin\Debug\net9.0\Practice_#6.exe
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\bin\Debug\net9.0\Practice_#6.deps.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\bin\Debug\net9.0\Practice_#6.runtimeconfig.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\bin\Debug\net9.0\Practice_#6.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\bin\Debug\net9.0\Practice_#6.pdb
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.AssemblyInfoInputs.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.AssemblyInfo.cs
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.csproj.CoreCompileInputs.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.sourcelink.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\refint\Practice_#6.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.pdb
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\Practice_#6.genruntimeconfig.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_Projects_For_Canvas\Practice_#6\obj\Debug\net9.0\ref\Practice_#6.dll

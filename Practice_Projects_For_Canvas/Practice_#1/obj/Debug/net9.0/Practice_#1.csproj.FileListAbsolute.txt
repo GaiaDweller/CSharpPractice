@@ -1,0 +1,15 @@
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\bin\Debug\net9.0\Practice_#1.exe
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\bin\Debug\net9.0\Practice_#1.deps.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\bin\Debug\net9.0\Practice_#1.runtimeconfig.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\bin\Debug\net9.0\Practice_#1.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\bin\Debug\net9.0\Practice_#1.pdb
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.AssemblyInfoInputs.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.AssemblyInfo.cs
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.csproj.CoreCompileInputs.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.sourcelink.json
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\refint\Practice_#1.dll
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.pdb
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\Practice_#1.genruntimeconfig.cache
+C:\Users\rstew451\Documents\GitHub\CSharpPractice\Practice_#1\obj\Debug\net9.0\ref\Practice_#1.dll
